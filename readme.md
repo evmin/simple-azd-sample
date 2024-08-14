@@ -11,7 +11,7 @@ The sample also demonstrates an azd post infrastructure provisioning hook in /sc
 - Install [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
 - Install [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/install-azd)
 - If using Windows, install the [Platform PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4).
-    **OBS!** It is MUST be installed. It is NOT Windows default PowerShell.
+    **OBS!** It MUST be installed. It is NOT the default Windows PowerShell.
 - Login to your tenant with Azure CLI `az login`
 
 ## Deploy the infrastructure
